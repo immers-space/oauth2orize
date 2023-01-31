@@ -46,11 +46,11 @@
   "dependencies": {
     "uid2": "0.0.x",
     "utils-merge": "1.x.x",
-    "debug": "2.x.x"
+    "debug": "^4.3.4"
   },
   "devDependencies": {
     "make-node": "0.3.x",
-    "mocha": "2.x.x",
+    "mocha": "^10.2.0",
     "chai": "2.x.x",
     "chai-connect-middleware": "0.3.x",
     "chai-oauth2orize-grant": "0.3.x"
